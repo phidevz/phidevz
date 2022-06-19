@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Philipp Matthäus from Munich, Germany.
+I am Philipp from Munich, Germany.
 
 ## :briefcase: Work / Occupation
 
