@@ -6,7 +6,7 @@ I am Philipp from Munich, Germany.
 
 I work fulltime as a software engineer at Linova Software GmbH ([Web](https://www.linova.de) / [GitHub](https://github.com/linova-software)).
 
-My industry experties lies in:
+My industry expertise lies in:
 
 - :airplane: Aerospace
 - :computer: IoT
